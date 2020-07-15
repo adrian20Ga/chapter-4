@@ -65,7 +65,7 @@ arrays are variables that can store values ​​for example minecraft boxes, un
 int gupy[6] = {1, 10, 8, 17, 9,4,3};
 ```
 
-- array of arrays
+- Array of arrays
 ```tcc
 //this is a 2d array
 int gupy[2][3] = {{1, 5, 0}, {-1, 5, 9}};
