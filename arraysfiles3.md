@@ -1,8 +1,8 @@
 <h1>Chapter 4</h1>
+
 ***
 
 <h2>Files</h2>
-***
 
 files is important when it comes to accessing it, we can access it with special commands for input and output.
 With this we can access the file and modify it as the user wishes.
